@@ -1,5 +1,5 @@
 {
-    "name": "ulmod/module-hello",
+    "name": "ulmod/m2-hello",
     "description": "Hello for M2 by Ulmod",
     "keywords": ["hello","magento 2 hello"],  
     "type": "magento2-module",
